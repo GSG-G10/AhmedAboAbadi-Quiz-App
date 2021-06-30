@@ -1,0 +1,102 @@
+*{
+    padding: 0;
+    margin:0 ;
+    box-sizing: border-box;
+}
+
+.heder-of-page{
+    width: 100%;
+    background-color:#566270 ;
+    height: 60px;
+}
+
+.header1{
+    margin-top: 10%;
+    padding-left: 35%;
+}
+
+.header-in-page2{
+    margin-top: 10%;
+    padding-left:  30%;
+}
+
+.button-in-the-first-page{
+    /* display: block;
+    padding: 14px 40px;
+    margin-left: 40%; 
+    margin: 222px 10px;
+    border-radius: 15px;
+    text-align: center; */
+
+    margin-top: 20%;
+    padding: 10px;
+    margin: 200px;
+    border-radius: 15px;
+    margin-left: 20%;
+}
+
+.button-in-the-second-page{
+    margin-top: 5%;
+    padding: 10px 15px 10px 15px;
+    margin: 80px;
+    border-radius: 10px;
+    margin-left: 20%;
+}
+
+.form-in-page2{
+    margin-top: 18%;
+    padding: 10px;
+    margin: 50px;
+    margin-left: 34%;
+    height: 100px;
+    width: 100%;
+}
+
+p{
+    height: 100px;
+    width: 50%;
+    background-color: #DFDFDF;
+    font-size: 30px;
+}
+
+
+.questions-form {
+    margin-top: 60px;
+    padding: 10px;
+    height: 150px;
+    width: 50%;
+    background-color: #DFDFDF;
+    font-size: 30px;
+    text-align: center;
+}
+
+.center-qu{
+    height: 200px;
+    margin-top: 85px;
+    text-align: center;
+    width: 100%;
+    margin-left: 300px;
+    text-align: center;
+}
+
+.button-in-the-theerd-page{
+    margin-top: 15% ;
+    padding: 10px 15px 10px 15px;
+    margin-left: 45%;
+    border-radius: 10p
+}
+
+.Counter-of-questions{
+    margin-left: 80%;
+}
+
+
+
+
+
+
+
+
+
+
+
