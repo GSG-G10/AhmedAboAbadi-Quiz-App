@@ -2,7 +2,8 @@
 # AhmedAboAbadi-Quiz-App
 figma link : https://www.figma.com/file/hvxN8442woBKsW2Cw6zV7W/Untitled?node-id=0%3A1
 
-demo link : https://gsg-g10.github.io/AhmedAboAbadi-Quiz-App/
+demo link : https://gsg-g10.github.io/AhmedAboAbadi-Quiz-App/indexFile/index.html
+
 
 User Stories:
 
