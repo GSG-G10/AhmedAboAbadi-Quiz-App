@@ -16,5 +16,4 @@ User Stories:
 8. As a User, I should be able to see how many questions I still have to answer(2/10 meaning that I am on the second question).
 9. As a User, I should be able to see my score after finishing all of the questions.
 
-
-
+Connect with me on Discord => Ahmad_ABO_Abadi#7234
